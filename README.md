@@ -143,9 +143,9 @@ streamlit run frontend/streamlit.py
 ---
 
 ## 🧑‍💻 Author
-**Anurag**  
-B.Tech (Cyber Security)  
-Machine Learning & Backend Development
+**Anurag**
+B.Tech 
+Data Science and AI Student 
 
 ---
 
