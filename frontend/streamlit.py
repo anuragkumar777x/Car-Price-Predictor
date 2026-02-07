@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = 'https://car-price-predictor-vfgc.onrender.com'
+API_URL = "https://car-price-predictor-vfgc.onrender.com/predict"
 
 st.set_page_config(page_title="Car Price Prediction", page_icon="🚗")
 
